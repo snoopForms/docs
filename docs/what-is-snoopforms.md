@@ -37,7 +37,7 @@ To take full advantage of this documentation please select your path. Do you wan
 <div class="container" style={{ padding: 0 }}>
   <div class="row is-multiline">
      <div class="col col--6">
-        <Link class="card" to="/platform/introduction">
+        <Link class="card" to="/platform/snoopPlatform">
           <div class="card__body" style={{ display: 'flex', gap: 30, alignItems: 'center' }}>
               <SnoopIcon width="40" alt="React" style={{ display: 'block', maxHeight: 40 }} />
                 <div>

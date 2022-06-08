@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 Getting the snoopForms React Library up and running on localhost is quick and easy:
 
-> :warning: **Note**: This repository is still in an early stage of development. We love the open source community and want to show what we are working on early. We will update this readme with more information once it is safe to use. Until then, feel free to share your thoughts, contact us, and contribute if you'd like.
+> :warning: **Note**: This repository is still in an early stage of development. We love the open source community and want to show what we are working on early. We will update this docs with more information once it is safe to use. Until then, feel free to share your thoughts, contact us, and contribute if you'd like.
 
 ## Run it locally
 
@@ -40,9 +40,7 @@ cp .env.example .env
 
 ### 4. Start PostgreSQL
 
-```
-tba
-```
+Make sure the PostgreSQL server is running on your system. Depending on your operating system and PostgreSQL installation method, you may check this differently, but you will need a running database instance for the next step.
 
 ### 5. Setup database with Prisma
 

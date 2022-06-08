@@ -4,7 +4,7 @@ description: "Deploy your snoopPlatform to the cloud."
 hide_table_of_contents: true
 ---
 
-The easiest way to deploy snoopPlatform on your on server is using Docker.
+The easiest way to deploy snoopPlatform on your own server is using Docker.
 
 ### Requirements
 
