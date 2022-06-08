@@ -44,8 +44,6 @@ Make sure the PostgreSQL server is running on your system. Depending on your ope
 
 ### 5. Setup database with Prisma
 
-If you have not yet installed Prisma, you have to do that first. To install Prisma run `yarn add -D prisma`
-
 Then let prisma set up the database for you:
 
 ```
