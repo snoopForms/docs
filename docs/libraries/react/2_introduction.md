@@ -12,7 +12,7 @@ snoopForms inputs work like HTML inputs - with lots of useful form features back
 
 ## All essential functionality built-in
 
-Much like Tailwind makes CSS available in your HTML code, snoopForms allows you to handle all essential form functionality by writing HTML as well.
+Much like Tailwind CSS makes CSS available in your HTML code, snoopForms allows you to handle all essential form functionality by writing HTML as well.
 
 Within the `<snoopForm>` tag you can manage all essential form functionality. Add labels, help texts, handle errors, add styling, add pages - everything just one line of code away.
 
